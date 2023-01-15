@@ -8,7 +8,7 @@ To analyze Hawaii's weather data, SQLAlchemy was used to query the SQLite databa
 
 ## Results
 Baseline analysis of climate in Oahu included looking at the precipitation data for year 2016 and 2017, fiding the list of stations available in the dataset, query to find minimum and maximum temperature at most active station, looking at temperature data and plotting the parameters in a plot/ chart for graphical illustration. 
-Link of the analysis steps are at http://localhost:8888/notebooks/surfs_up/climate_analysis.ipynb
+Link of the analysis steps are at https://github.com/ashrs03/surfs_up/blob/main/climate_analysis.ipynb
 
 ### Specific questions conducted to answer investor questions:
 https://github.com/ashrs03/surfs_up/blob/main/SurfsUp_Challenge.ipynb
